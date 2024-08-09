@@ -31,7 +31,7 @@ We have various pages in this websites are as follows :
 
 ## Information about Menu page
 
-- **Page Link** : [Visit About Us Page](https://pizza-df.netlify.app/pages/menu) .
+- **Page Link** : [Visit Menu Page](https://pizza-df.netlify.app/pages/menu) .
 - **Summery Of Page** : This is Menu  Page.This page content information about  different type of pizza and its menus cards.
 - **Language Used** : HTML 5,css
 
@@ -41,7 +41,7 @@ We have various pages in this websites are as follows :
 
 ## Information about Contact page
 
-- **Page Link** : [Visit Service Page](https://pizza-df.netlify.app/pages/contact) .
+- **Page Link** : [Visit Contact Page](https://pizza-df.netlify.app/pages/contact) .
 - **Summery Of Page** : This is an Contact Page.This page content information about user send massege this type of services available also etc .
 - **Language Used** : HTML 5 ,css
 
