@@ -1,0 +1,44 @@
+.contact-section
+{
+    background-color: #fff;
+    margin: 1em 0;
+    padding: 2em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.input-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1px;
+}
+h2{
+    border-bottom: 2px solid #d32f2f;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input
+{
+    margin-bottom: 10px;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    padding: 10px;
+    border: none;
+    background-color: #d32f2f;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #b71c1c;
+}

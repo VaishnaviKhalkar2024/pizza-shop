@@ -1,0 +1,53 @@
+.menu-section
+{
+    background-color: #fff;
+    margin:10px 5px;
+    padding: 2em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.menucard-container
+{
+    display:inline-block;
+    background-color:#fff ;
+    border: 1px solid #ccc;
+    margin: 5px;
+    width: 250px; 
+    text-align: center;
+    padding: 20px 10px;  
+    border-radius: 5px;
+    
+}
+.menucard-container:hover
+{
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.1) ;
+}
+
+.img
+{
+    padding: 2px 5px;
+    margin: auto;
+    padding: 2px 5px;
+    height:100px;
+    width: 150px;
+
+}
+h2{
+    border-bottom: 2px solid #d32f2f;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+.btn
+{
+    border-radius: 10px;
+    padding: 5px 5px;
+    border: 2px solid #fff ;
+    background-color: #d32f2f;
+    color: #fff;
+
+
+}
+.btn:hover
+{
+    text-decoration: underline;
+
+}
